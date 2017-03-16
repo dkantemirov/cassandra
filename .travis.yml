@@ -10,3 +10,4 @@ notifications:
       - scala@dr.com
 jdk:
   - oraclejdk8
+script: sbt test
